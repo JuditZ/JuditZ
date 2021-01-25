@@ -29,7 +29,7 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuditZentai1993&layout=compact&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuditZentai1993&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuditZentai1993&theme=tokyonight&layout=compact)
 
 <!--
 **JuditZentai1993/JuditZentai1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
