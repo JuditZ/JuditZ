@@ -28,8 +28,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuditZentai1993)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuditZentai1993)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuditZentai1993&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuditZentai1993&theme=tokyonight)
 
 <!--
 **JuditZentai1993/JuditZentai1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
