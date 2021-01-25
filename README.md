@@ -7,6 +7,12 @@
 <p align="center">- 📫 How to reach me: <a href="https://www.linkedin.com/in/judit-zentai/">LinkedIn</a> </p>
 <p align="center">- ⚡ Fun fact: I love cats and plants </p>
 
+## ✉️ Find me on:
+<p align="center">
+ <a href="https://www.linkedin.com/in/judit-zentai/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:juditzentai1993@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
 <!--
 **JuditZentai1993/JuditZentai1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
