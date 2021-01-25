@@ -3,8 +3,6 @@
 <p align="center">- 🔭 I’m currently working on improving WombatLibrarian with some awesome people</p>
 <p align="center">- 🌱 I’m looking forward learning Angular and Typescript soon </p>
 <p align="center">- 👯 I’m looking to collaborate on anything fun </p>
-<p align="center">- 💬 Ask me about anything </p>
-<p align="center">- 📫 How to reach me: <a href="https://www.linkedin.com/in/judit-zentai/">LinkedIn</a> </p>
 <p align="center">- ⚡ Fun fact: I love cats and plants </p>
 
 ## ✉️ Find me on:
