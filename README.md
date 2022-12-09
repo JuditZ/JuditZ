@@ -2,7 +2,7 @@
   </p>
 <div align="center">- 🌱 I’m currently working on improving my .NET & backend skills</div>
 <div align="center">- 👯 I’m looking to collaborate on anything fun </div>
-<div align="center">- ⚡ Fun fact: I love cats and plants </div>
+<div align="center">- ⚡ Fun fact: Tomato is a berry </div>
 
 ## ✉️ Find me on:
 
@@ -28,8 +28,8 @@
 </p>
 <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuditZentai1993&theme=tokyonight&layout=compact&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuditZentai1993&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuditZ&theme=tokyonight&layout=compact&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuditZ&layout=compact&theme=tokyonight)
 
 </div>
 <!--
